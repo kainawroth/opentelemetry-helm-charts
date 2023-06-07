@@ -5,7 +5,7 @@ version: 0.22.3
 description: opentelemetry demo helm chart
 home: https://opentelemetry.io/
 sources:
-  - https://github.com/open-telemetry/opentelemetry-demo
+  - https://github.com/kainawroth/opentelemetry-demo
 maintainers:
   - name: dmitryax
   - name: puckpuck
